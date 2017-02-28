@@ -2,6 +2,7 @@
 
 function startTime() {
 var today = new Date()
+// function which gets the exact hours in the day
 var h = today.getHours()
 var m = today.getMinutes()
 var s = today.getSeconds()
